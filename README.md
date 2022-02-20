@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RizkyRatna17
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Telkom
 - 📫 How to reach me, in my email (rizkyratna77@gmail.com)
 
 <!---
